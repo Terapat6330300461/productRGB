@@ -36,7 +36,7 @@
         </tr>";  
     }
    
-    echo '</table>'
+    echo '</table>';
 ?>
 
 </body>
